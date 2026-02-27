@@ -1,0 +1,3 @@
+Nodejs 
+ nodejs install-->select nodejs official site--->select LTS version-->windows-->download
+ install->next--->install
